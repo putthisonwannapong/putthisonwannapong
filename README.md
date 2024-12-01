@@ -1,7 +1,7 @@
 👋 Hi everyone, I am Putthison (Phil) 
 -
 - 👷 I am an aspiring data engineer.
-   - I am currently learning data engineering concept and fundamental, focused on Azure stacks.
+   - Currently learning data engineering concept and fundamental, focused on Azure stacks.
    - Data engineering projects can be found on my profile.
 - 📜 My certifications:
   - Microsoft Certified: Azure Data Engineer Associate (DP-203)
